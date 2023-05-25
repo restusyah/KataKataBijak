@@ -1,6 +1,5 @@
 package com.example.katakatabijak
 
-import android.os.Build.VERSION_CODES.R
 import android.os.Bundle
 import android.util.Log
 import android.view.View
